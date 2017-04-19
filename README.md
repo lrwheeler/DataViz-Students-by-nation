@@ -1,5 +1,3 @@
-# DataViz-Students-by-nation
-
 #Link to the live site
 https://lrwheeler.github.io/DataViz-Students-by-nation/
 
